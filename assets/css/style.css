@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: rgb(236, 236, 236);
 }
 
 #newTrain {
@@ -16,9 +16,27 @@ body {
     background-color: white;
     margin-bottom: 4%;
 }
+h3{
+    color: rgb(238, 160, 221);
+} 
 
 #header {
     border-radius: 15px;
+    background-color: rgb(238, 160, 221);
+}
+
+.bg-info {
+    background-color: rgb(238, 160, 221)!important;
+}
+
+.text-info {
+    color: rgb(238, 160, 221)!important;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: rgb(238, 160, 221);
+    border-color: rgb(238, 160, 221);
 }
 
 #newRow {
